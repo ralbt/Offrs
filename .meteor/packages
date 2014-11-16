@@ -6,3 +6,10 @@
 meteor-platform
 autopublish
 insecure
+mizzao:bootstrap-3
+iron:router
+aldeed:collection2
+multiply:iron-router-progress
+accounts-password
+ian:accounts-ui-bootstrap-3
+
