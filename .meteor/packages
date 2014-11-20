@@ -12,4 +12,6 @@ aldeed:collection2
 multiply:iron-router-progress
 accounts-password
 ian:accounts-ui-bootstrap-3
+aldeed:autoform
+dburles:collection-helpers
 
